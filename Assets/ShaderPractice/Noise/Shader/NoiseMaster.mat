@@ -25,11 +25,11 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _Gain: 0.5
-    - _GridSize: 10
-    - _Lacunarity: 2
-    - _NoiseType: 0
-    - _Octaves: 5
-    - _Scale: 50
+    - _Gain: 0.58
+    - _GridSize: 22
+    - _Lacunarity: 2.68
+    - _NoiseType: 4
+    - _Octaves: 10
+    - _Scale: 12.77
     m_Colors: []
   m_BuildTextureStacks: []
